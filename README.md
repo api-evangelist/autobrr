@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-autobrr is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://autobrr.com/
+autobrr is an open‑source, self‑hosted automation tool that bridges IRC announce channels and RSS feeds from torrent indexers to download clients and *arr applications. It listens to real‑time announcements, filters releases based on user‑defined rules, and pushes matching torrents to qBittorrent, Deluge, Transmission, rTorrent, or the Sonarr/Radarr/Lidarr ecosystem. The platform supports Docker, native binaries for Linux, macOS, Windows, and FreeBSD, and integrates with popular notification services like Discord, Telegram, and Pushover. autobrr aims to streamline torrent acquisition, reduce latency between announcement and download, and provide a flexible API for custom extensions.
+
+**Areas:** Torrent · Automation · Open-Source · Self-Hosted · Media
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://autobrr.com/)
+- [Documentation](https://autobrr.com/introduction)
+- [Getting started](https://autobrr.com/quick-start)
+- [API reference](https://autobrr.com/api)
+- [Support](https://autobrr.com/support)
+- [Changelog](https://autobrr.com/release-notes)
+- [GitHub](https://github.com/autobrr)
+
+**APIs profiled:** 25
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/autobrr/](https://apis.io/providers/autobrr/).
